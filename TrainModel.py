@@ -16,7 +16,7 @@ import pickle
 from nltk.corpus import stopwords
 
 modelName='model9'
-dataJSON='final.json'
+dataJSON='Data.json'
 
 class Training_Model:
     def __init__(self):
